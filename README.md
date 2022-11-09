@@ -1,7 +1,6 @@
 ### Hey guys I am Yuran Mite!
 ### Alles groß beginnt in keinen
 
-- 🧠 I’m currently learning JavaScript
 - 🤔 I’m looking for helping people with technology 
 - ⚡ Fun fact: CODING IS FUNNY!
 
