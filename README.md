@@ -1,10 +1,4 @@
-### Hey guys I am Yuran Mite!
-### Alles groß beginnt in keinen
 
-- 🤔 I’m looking for helping people with technology 
-- ⚡ Fun fact: CODING IS FUNNY!
-
-### KHANIMAMBO!🤲
 
 <div align="center">
   <a href="https://github.com/YuranMite">
