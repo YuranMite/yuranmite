@@ -12,9 +12,5 @@
   <img align="center" alt="Yuran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yuran-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
 </div>
-  <br>
- <div>
-  <a href="https://www.linkedin.com/in/yuran-mite-219b44211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405Flogo=linkedin&logoColor=blue" target="_blank"></a>
-  <a href = "mailto:mite.yuran@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  </div>
+  
  
