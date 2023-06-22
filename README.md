@@ -14,7 +14,7 @@
 </div>
   <br>
  <div>
-  <a href="https://www.linkedin.com/in/yuran-mite-219b44211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yuran-mite-219b44211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
   <a href = "mailto:mite.yuran@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   </div>
  
